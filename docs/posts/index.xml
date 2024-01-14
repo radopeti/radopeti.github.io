@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Peter Rado</title>
+        <link>https://radopeti.github.io/posts/</link>
+        <description>Recent content in Posts on Peter Rado</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Peter Rado</copyright>
+        <lastBuildDate>Sun, 14 Jan 2024 13:25:26 +0100</lastBuildDate>
+        <atom:link href="https://radopeti.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>How I deployed this site to my Github pages</title>
+            <link>https://radopeti.github.io/posts/2024/01/how-i-deployed-this-site-to-my-github-pages/</link>
+            <pubDate>Sun, 14 Jan 2024 13:25:26 +0100</pubDate>
+            
+            <guid>https://radopeti.github.io/posts/2024/01/how-i-deployed-this-site-to-my-github-pages/</guid>
+            <description>Quick introduction This is a step by step tutorial how to deploy a Hugo website to {user}.github.io
+These are the steps I followed: follow the quickstart guide and add the template you find the best for your interest. I use hello-friend-ng. init your local github repository create a new repository on github with name like: {user}.github.io and push your local repo go to the repository settings on github and setup the build: (this means every push to master will trigger a build using the docs folder as source) set the publishDir variable to docs in hugo.</description>
+            <content type="html"><![CDATA[<h2 id="quick-introduction">Quick introduction</h2>
+<p>This is a step by step tutorial how to deploy a <strong>Hugo</strong> website to <strong>{user}.github.io</strong></p>
+<h3 id="these-are-the-steps-i-followed">These are the steps I followed:</h3>
+<ol>
+<li><strong>follow</strong> the <a href="https://gohugo.io/getting-started/quick-start/">quickstart guide</a> and add the template you find the best for your interest. I use <a href="https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/">hello-friend-ng</a>.</li>
+<li><strong>init</strong> your local github repository</li>
+<li><strong>create</strong> a new repository on <strong>github</strong> with name like: <strong>{user}.github.io</strong> and push your local repo</li>
+<li><strong>go</strong> to the <strong>repository settings</strong> on github and setup the build:
+<img src="/how-i-deployed-this/build-and-deploy.png" alt="github pages settings"><em>(this means every push to master will trigger a build using the docs folder as source)</em></li>
+<li><strong>set</strong> the <strong>publishDir</strong> variable to <strong>docs</strong> in <strong>hugo.toml</strong> (<em>running hugo command will put all the generated files into this dir because the setting above expects /docs as the publish dir</em>)</li>
+<li>run
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-console" data-lang="console"><span style="display:flex;"><span>foo@bar:~$ hugo
+</span></span></code></pre></div></li>
+<li><strong>commit</strong> and <strong>push</strong> the changes, this will trigger the <strong>pages-build-deployment</strong> workflow</li>
+<li><strong>visit</strong> <em>{user}.github.io</em> when the workflow run is completed</li>
+</ol>
+<h4 id="enjoy-your-site">Enjoy your site!</h4>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

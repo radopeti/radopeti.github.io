@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hello Friend NG</title>
+    <title>Tags on Peter Rado</title>
     <link>https://radopeti.github.io/tags/</link>
-    <description>Recent content in Tags on Hello Friend NG</description>
+    <description>Recent content in Tags on Peter Rado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Peter Rado</copyright>
+    <lastBuildDate>Sun, 14 Jan 2024 13:25:26 +0100</lastBuildDate>
     <atom:link href="https://radopeti.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github pages</title>
+      <link>https://radopeti.github.io/tags/github-pages/</link>
+      <pubDate>Sun, 14 Jan 2024 13:25:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>https://radopeti.github.io/tags/hugo/</link>
+      <pubDate>Sun, 14 Jan 2024 13:25:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tutorial</title>
+      <link>https://radopeti.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 14 Jan 2024 13:25:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

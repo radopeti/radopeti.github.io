@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Rado</title>
-    <link>https://radopeti.github.io/</link>
-    <description>Recent content on Peter Rado</description>
+    <title>hugo on Peter Rado</title>
+    <link>https://radopeti.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Peter Rado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Peter Rado</copyright>
     <lastBuildDate>Sun, 14 Jan 2024 13:25:26 +0100</lastBuildDate>
-    <atom:link href="https://radopeti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://radopeti.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I deployed this site to my Github pages</title>
       <link>https://radopeti.github.io/posts/2024/01/how-i-deployed-this-site-to-my-github-pages/</link>

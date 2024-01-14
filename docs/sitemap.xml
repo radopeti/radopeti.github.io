@@ -2,12 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://radopeti.github.io/categories/</loc>
+    <loc>https://radopeti.github.io/tags/github-pages/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
+  </url><url>
+    <loc>https://radopeti.github.io/posts/2024/01/how-i-deployed-this-site-to-my-github-pages/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
+  </url><url>
+    <loc>https://radopeti.github.io/tags/hugo/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
   </url><url>
     <loc>https://radopeti.github.io/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
   </url><url>
-    <loc>https://radopeti.github.io/series/</loc>
+    <loc>https://radopeti.github.io/posts/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
   </url><url>
     <loc>https://radopeti.github.io/tags/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
+  </url><url>
+    <loc>https://radopeti.github.io/tags/tutorial/</loc>
+    <lastmod>2024-01-14T13:25:26+01:00</lastmod>
+  </url><url>
+    <loc>https://radopeti.github.io/categories/</loc>
+  </url><url>
+    <loc>https://radopeti.github.io/series/</loc>
   </url>
 </urlset>
