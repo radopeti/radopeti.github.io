@@ -1,5 +1,5 @@
 baseURL = "https://radopeti.github.io"
-title   = "Hello Friend NG"
+title = "Peter Rado"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -44,43 +44,42 @@ disableHugoGeneratorInject = false
   category = "categories"
   series   = "series"
 
-[params]
-  [params.author]
+[params.author]
     name = "Jane Doe"
 
+[params]
+
+  enableThemeToggle = true
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
-  # 
+
   description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
-  #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Software Engineer"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
+
   # gitUrl = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  #
+
   disableReadOtherPosts = false
 
   # Enable theme toggle
-  # 
   # This options enables the theme toggle for the theme. 
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating system. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
 
   # Sharing buttons
   #
@@ -94,7 +93,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -119,7 +118,7 @@ disableHugoGeneratorInject = false
     copyright = true
     author = true
 
-    topText = []
+    topText = ["stuff"]
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
     ]
@@ -212,13 +211,13 @@ disableHugoGeneratorInject = false
   # Addon: Social icons
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:rado.peti@gmail.com"
 
   [[params.social]]
     name = "github"
@@ -226,11 +225,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://www.linkedin.com/in/radopeti"
 
 [languages]
   [languages.en]
