@@ -118,9 +118,9 @@ disableHugoGeneratorInject = false
     copyright = true
     author = true
 
-    topText = ["stuff"]
+    topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "<a href="#" class="termly-display-preferences">Consent Preferences</a>",
     ]
 
   # Colors for favicons
