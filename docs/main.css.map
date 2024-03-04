@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/peterrado/Desktop/blogbuster",
+	"sourceRoot": "/Users/klm99308/IdeaProjects/homeworks/KublerBalazs/radopeti.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
