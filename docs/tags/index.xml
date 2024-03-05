@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Peter Rado</copyright>
-    <lastBuildDate>Sun, 14 Jan 2024 13:25:26 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 09:42:26 +0100</lastBuildDate>
     <atom:link href="https://radopeti.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about me</title>
+      <link>https://radopeti.github.io/tags/about-me/</link>
+      <pubDate>Tue, 05 Mar 2024 09:42:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/tags/about-me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cv</title>
+      <link>https://radopeti.github.io/tags/cv/</link>
+      <pubDate>Tue, 05 Mar 2024 09:42:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>peter rado</title>
+      <link>https://radopeti.github.io/tags/peter-rado/</link>
+      <pubDate>Tue, 05 Mar 2024 09:42:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/tags/peter-rado/</guid>
+      <description></description>
+    </item>
     <item>
       <title>github pages</title>
       <link>https://radopeti.github.io/tags/github-pages/</link>

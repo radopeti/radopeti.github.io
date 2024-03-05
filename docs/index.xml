@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Peter Rado</copyright>
-    <lastBuildDate>Sun, 14 Jan 2024 13:25:26 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 09:42:26 +0100</lastBuildDate>
     <atom:link href="https://radopeti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://radopeti.github.io/about/</link>
+      <pubDate>Tue, 05 Mar 2024 09:42:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/about/</guid>
+      <description>Profile I&amp;rsquo;m an experienced software engineer mostly on Java domain, but I do frontend development in Angular as well. I like literally anything in IT from coding to configuring services in the cloud, except css, I&amp;rsquo;m sorry, I can&amp;rsquo;t do that.&#xA;Technologies I can use or familiar with Backend Frontend Other </description>
+    </item>
     <item>
       <title>How I deployed this site to my Github pages</title>
       <link>https://radopeti.github.io/posts/2024/01/how-i-deployed-this-site-to-my-github-pages/</link>

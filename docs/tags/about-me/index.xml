@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about me on Peter Rado</title>
+    <link>https://radopeti.github.io/tags/about-me/</link>
+    <description>Recent content in about me on Peter Rado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Peter Rado</copyright>
+    <lastBuildDate>Tue, 05 Mar 2024 09:42:26 +0100</lastBuildDate>
+    <atom:link href="https://radopeti.github.io/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://radopeti.github.io/about/</link>
+      <pubDate>Tue, 05 Mar 2024 09:42:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/about/</guid>
+      <description>Profile I&amp;rsquo;m an experienced software engineer mostly on Java domain, but I do frontend development in Angular as well. I like literally anything in IT from coding to configuring services in the cloud, except css, I&amp;rsquo;m sorry, I can&amp;rsquo;t do that.&#xA;Technologies I can use or familiar with Backend Frontend Other </description>
+    </item>
+  </channel>
+</rss>
