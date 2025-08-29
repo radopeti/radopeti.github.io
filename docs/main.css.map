@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/klm99308/IdeaProjects/homeworks/KublerBalazs/radopeti.github.io",
+	"sourceRoot": "/Users/peterrado/Projects/radopeti.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
