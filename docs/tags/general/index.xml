@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Peter Rado</title>
+    <link>https://radopeti.github.io/tags/general/</link>
+    <description>Recent content in General on Peter Rado</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Peter Rado</copyright>
+    <lastBuildDate>Fri, 29 Aug 2025 13:25:26 +0100</lastBuildDate>
+    <atom:link href="https://radopeti.github.io/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m back!</title>
+      <link>https://radopeti.github.io/posts/2025/08/im-back/</link>
+      <pubDate>Fri, 29 Aug 2025 13:25:26 +0100</pubDate>
+      <guid>https://radopeti.github.io/posts/2025/08/im-back/</guid>
+      <description>&lt;h3 id=&#34;im-back-after-a-long-time-yay&#34;&gt;I&amp;rsquo;m back after a long time, YAY!&lt;/h3&gt;&#xA;&lt;h4 id=&#34;thanks-to-rapidly-evolving-ai&#34;&gt;(Thanks to rapidly evolving AI)&lt;/h4&gt;&#xA;&lt;p&gt;Parenting is never easy, especially if you have twins. I do my 9/5 job and the second shift after.&lt;/p&gt;&#xA;&lt;p&gt;What really happened is that I initialized hugo and the repo with the build in my old macbook, and I planned to write content regularly from my other machines as well (because that machine is really old and hot), but life happened and I slowly forgot about my blog. After a long period I had one uninterrupted hour and I decided to check my blog, write something nice, so I installed hugo and had to face with build errors which I was not able to resolve. Unfortunately the time wasn&amp;rsquo;t enough for me to figure out the issue by myself, neither with the help of ChatGPT, hugo forums, black magic, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

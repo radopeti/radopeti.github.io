@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about me on Peter Rado</title>
+    <title>About Me on Peter Rado</title>
     <link>https://radopeti.github.io/tags/about-me/</link>
-    <description>Recent content in about me on Peter Rado</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in About Me on Peter Rado</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Peter Rado</copyright>
     <lastBuildDate>Tue, 05 Mar 2024 09:42:26 +0100</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>https://radopeti.github.io/about/</link>
       <pubDate>Tue, 05 Mar 2024 09:42:26 +0100</pubDate>
       <guid>https://radopeti.github.io/about/</guid>
-      <description>Profile I&amp;rsquo;m an experienced software engineer mostly on Java domain, but I do frontend development in Angular as well. I like literally anything in IT from coding to configuring services in the cloud, except css, I&amp;rsquo;m sorry, I can&amp;rsquo;t do that.&#xA;Technologies I can use or familiar with Backend Frontend Other </description>
+      <description>&lt;h3 id=&#34;profile&#34;&gt;Profile&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m an experienced software engineer mostly on Java domain, but I do frontend development in Angular as well.&#xA;I like literally anything in IT from coding to configuring services in the cloud, except css, I&amp;rsquo;m sorry, I can&amp;rsquo;t do that.&lt;/p&gt;&#xA;&lt;h3 id=&#34;technologies-i-can-use-or-familiar-with&#34;&gt;Technologies I can use or familiar with&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Backend&lt;/th&gt;&#xA;          &lt;th&gt;Frontend&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Other&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://radopeti.github.io/about/springio-ar21.svg&#34; alt=&#34;springio-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/docker-ar21.svg&#34; alt=&#34;docker-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/flyway.svg&#34; alt=&#34;flyway.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/liquibase.svg&#34; alt=&#34;liquibase.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/hibernate-ar21.svg&#34; alt=&#34;hibernate-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/docker-ar21.svg&#34; alt=&#34;docker-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/maven-svgrepo-com.svg&#34; alt=&#34;maven-svgrepo-com.svg&#34;&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://radopeti.github.io/about/angular-ar21.svg&#34; alt=&#34;angular-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/typescriptlang-icon.svg&#34; alt=&#34;typescriptlang-icon.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/w3_html5-ar21.svg&#34; alt=&#34;w3_html5-ar21.svg&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://radopeti.github.io/about/github-ar21.svg&#34; alt=&#34;github-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/git-scm-ar21.svg&#34; alt=&#34;git-scm-ar21.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/intellij.svg&#34; alt=&#34;intellij.svg&#34;&gt; &lt;img src=&#34;https://radopeti.github.io/about/vscode.svg&#34; alt=&#34;file_type_vscode_icon_130084.svg&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

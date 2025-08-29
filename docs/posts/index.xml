@@ -6,8 +6,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Peter Rado</copyright>
-        <lastBuildDate>Sun, 14 Jan 2024 13:25:26 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 13:25:26 +0100</lastBuildDate>
         <atom:link href="https://radopeti.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>I&#39;m back!</title>
+            <link>https://radopeti.github.io/posts/2025/08/im-back/</link>
+            <pubDate>Fri, 29 Aug 2025 13:25:26 +0100</pubDate>
+            
+            <guid>https://radopeti.github.io/posts/2025/08/im-back/</guid>
+            <description>&lt;h3 id=&#34;im-back-after-a-long-time-yay&#34;&gt;I&amp;rsquo;m back after a long time, YAY!&lt;/h3&gt;
+&lt;h4 id=&#34;thanks-to-rapidly-evolving-ai&#34;&gt;(Thanks to rapidly evolving AI)&lt;/h4&gt;
+&lt;p&gt;Parenting is never easy, especially if you have twins. I do my 9/5 job and the second shift after.&lt;/p&gt;
+&lt;p&gt;What really happened is that I initialized hugo and the repo with the build in my old macbook, and I planned to write content regularly from my other machines as well (because that machine is really old and hot), but life happened and I slowly forgot about my blog. After a long period I had one uninterrupted hour and I decided to check my blog, write something nice, so I installed hugo and had to face with build errors which I was not able to resolve. Unfortunately the time wasn&amp;rsquo;t enough for me to figure out the issue by myself, neither with the help of ChatGPT, hugo forums, black magic, etc.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h3 id="im-back-after-a-long-time-yay">I&rsquo;m back after a long time, YAY!</h3>
+<h4 id="thanks-to-rapidly-evolving-ai">(Thanks to rapidly evolving AI)</h4>
+<p>Parenting is never easy, especially if you have twins. I do my 9/5 job and the second shift after.</p>
+<p>What really happened is that I initialized hugo and the repo with the build in my old macbook, and I planned to write content regularly from my other machines as well (because that machine is really old and hot), but life happened and I slowly forgot about my blog. After a long period I had one uninterrupted hour and I decided to check my blog, write something nice, so I installed hugo and had to face with build errors which I was not able to resolve. Unfortunately the time wasn&rsquo;t enough for me to figure out the issue by myself, neither with the help of ChatGPT, hugo forums, black magic, etc.</p>
+<p>I left everything as is and invested my very short &ldquo;free&rdquo; time to something else.</p>
+<p>But tonight I had an idea, what if I just open the project and give a try to fix the issue with <strong>Claude Code</strong> and voila, it was able to fix it within few minutes so I got excited about to give this short update which I think it&rsquo;s amazing since it saved me a lot of time and I&rsquo;m able to use the engine I wanted to use.</p>
+<p>Big thanks to Anthropic!</p>
+]]></content>
+        </item>
         
         <item>
             <title>How I deployed this site to my Github pages</title>
@@ -15,8 +35,23 @@
             <pubDate>Sun, 14 Jan 2024 13:25:26 +0100</pubDate>
             
             <guid>https://radopeti.github.io/posts/2024/01/how-i-deployed-this-site-to-my-github-pages/</guid>
-            <description>Quick introduction This is a step by step tutorial how to deploy a Hugo website to {user}.github.io
-These are the steps I followed: follow the quickstart guide and add the template you find the best for your interest. I use hello-friend-ng. init your local github repository create a new repository on github with name like: {user}.github.io and push your local repo go to the repository settings on github and setup the build: (this means every push to master will trigger a build using the docs folder as source) set the publishDir variable to docs in hugo.</description>
+            <description>&lt;h2 id=&#34;quick-introduction&#34;&gt;Quick introduction&lt;/h2&gt;
+&lt;p&gt;This is a step by step tutorial how to deploy a &lt;strong&gt;Hugo&lt;/strong&gt; website to &lt;strong&gt;{user}.github.io&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;these-are-the-steps-i-followed&#34;&gt;These are the steps I followed:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;follow&lt;/strong&gt; the &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;quickstart guide&lt;/a&gt; and add the template you find the best for your interest. I use &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/&#34;&gt;hello-friend-ng&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;init&lt;/strong&gt; your local github repository&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;create&lt;/strong&gt; a new repository on &lt;strong&gt;github&lt;/strong&gt; with name like: &lt;strong&gt;{user}.github.io&lt;/strong&gt; and push your local repo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;go&lt;/strong&gt; to the &lt;strong&gt;repository settings&lt;/strong&gt; on github and setup the build:
+&lt;img src=&#34;https://radopeti.github.io/how-i-deployed-this/build-and-deploy.png&#34; alt=&#34;github pages settings&#34;&gt;&lt;em&gt;(this means every push to master will trigger a build using the docs folder as source)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;set&lt;/strong&gt; the &lt;strong&gt;publishDir&lt;/strong&gt; variable to &lt;strong&gt;docs&lt;/strong&gt; in &lt;strong&gt;hugo.toml&lt;/strong&gt; (&lt;em&gt;running hugo command will put all the generated files into this dir because the setting above expects /docs as the publish dir&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;run
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;foo@bar:~$ hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;commit&lt;/strong&gt; and &lt;strong&gt;push&lt;/strong&gt; the changes, this will trigger the &lt;strong&gt;pages-build-deployment&lt;/strong&gt; workflow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;visit&lt;/strong&gt; &lt;em&gt;{user}.github.io&lt;/em&gt; when the workflow run is completed&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;enjoy-your-site&#34;&gt;Enjoy your site!&lt;/h4&gt;</description>
             <content type="html"><![CDATA[<h2 id="quick-introduction">Quick introduction</h2>
 <p>This is a step by step tutorial how to deploy a <strong>Hugo</strong> website to <strong>{user}.github.io</strong></p>
 <h3 id="these-are-the-steps-i-followed">These are the steps I followed:</h3>
